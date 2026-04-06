@@ -8,8 +8,7 @@
   "server": {
     "ip": "ep1cdudebro99.aternos.me",
     "port": 52899,
-    "version": "1.21.10",
-    "try-creative": false
+    "version": "1.21.10"
   },
   "position": {
     "enabled": true,
@@ -59,7 +58,7 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": true,
+    "combat": false,
     "beds": false,
     "chat": true,
     "console-commands": true
